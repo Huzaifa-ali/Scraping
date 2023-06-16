@@ -1,0 +1,2 @@
+streamlit==0.68.1
+fuzzywuzzy==0.18.0
